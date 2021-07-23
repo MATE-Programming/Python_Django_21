@@ -4,4 +4,6 @@
 
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Chatapp/1.png?raw=true)
 
+Просмотри ролики и создай функции добавленные в приложения.
+
 
